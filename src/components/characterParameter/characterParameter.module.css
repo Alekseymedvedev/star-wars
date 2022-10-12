@@ -1,0 +1,36 @@
+.parameter{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.white{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    max-width: 80px;
+    width: 100%;
+    background: #FDFDFD;
+    box-shadow: 4px 4px 24px rgba(1, 17, 38, 0.2);
+    border-radius: 8px;
+}
+.number{
+    width: 38px;
+    height: 38px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212121;
+    border: 3px solid #212121;
+    border-radius: 50%;
+}
+.text{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #4B4B4B;
+}

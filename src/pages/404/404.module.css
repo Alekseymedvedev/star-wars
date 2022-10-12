@@ -1,0 +1,35 @@
+.errorPage{
+    height: 100%;
+    padding: 80px;
+    background: #17002F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+}
+.box{
+    width: 100%;
+    position: relative;
+}
+.planet{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.back{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 230px;
+    height: 60px;
+    background: #73D677;
+    box-shadow: inset 0px -9px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 27px;
+    color: #212121;
+}

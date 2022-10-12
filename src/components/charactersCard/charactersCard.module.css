@@ -1,0 +1,51 @@
+.card {
+    padding: 6px 25px 10px;
+    background: #F0F0F0;
+    border-radius: 8px;
+    filter: drop-shadow(4px 4px 4px rgba(33, 33, 33, 0.1));
+}
+
+.name {
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #212121;
+    text-shadow: 4px 4px 4px rgba(33, 33, 33, 0.1);
+}
+
+.inner {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gender {
+    padding: 5px 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #212121;
+    background: #73D677;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+}
+.female{
+    background: #C956FF;
+}
+
+.hermaphrodite{
+    background: #F5DB13;
+}
+.birthYear {
+    padding: 5px 10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #212121;
+    background: #07D6F2;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+}

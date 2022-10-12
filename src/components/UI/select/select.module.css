@@ -1,0 +1,9 @@
+.select{
+    margin-bottom: 30px;
+    padding: 5px;
+    width: 150px;
+    border: none;
+    background: #F2F2F2;
+    box-shadow: 4px 4px 8px rgba(1, 28, 64, 0.2);
+    border-radius: 8px;
+}

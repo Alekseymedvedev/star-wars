@@ -1,0 +1,16 @@
+.characters{
+    position: relative;
+    margin-bottom: 100px;
+    min-height: 700px;
+}
+.list{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 45px 35px;
+}
+.btn{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+}
